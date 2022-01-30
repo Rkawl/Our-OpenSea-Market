@@ -1,4 +1,6 @@
 # 할것
+- 서버/클라이언트 통신은 socket.io 이용
+- 웹서버를 켜야지 MetaMask를 인식해서 계정 접근이 가능하는것으로 보임 (node.js로 서버 간단하게 만들기)
 - OpenSea에서 MetaMask도 같이 작업해주는지 확인 (안해주면 MetaMask API 찾아보기)
 - OpenSea의 다른 network(Polygon, Kalytn) API 존재하는지 찾아보기
 - 간단한 html 구하기
