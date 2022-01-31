@@ -1,4 +1,5 @@
 # 할것
+- MetaMask 계정 만들기
 - OpenSea의 다른 network(Polygon, Kalytn) API 존재하는지 찾아보기
 - 간단한 html 구하기
 - 모두 javascript 기본 문법 알아오기
@@ -30,7 +31,7 @@
 
 # 2022-01-31
 - OpenSea에서 MetaMask도 같이 작업해주는지 체크 > 작업 안해줌 (단순히 계정주소를 인자로 받아서 API 작업)
-- 서버랑 클라이언트 node.js로 구현하기 (웹서버를 구동시켜야 MetaMask를 인식해서 계정 접근이 가능)
+- 서버랑 클라이언트 node.js로 구현하기 (웹서버를 구동시켜야 MetaMask를 인식해서 계정 접근이 가능) ([참고](https://velog.io/@goody/NodeJs-Express-%EB%A1%9C-%EC%9B%B9%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0))
 
 
 
