@@ -1,6 +1,4 @@
 # 할것
-- 서버/클라이언트 통신은 socket.io 이용
-- OpenSea에서 MetaMask도 같이 작업해주는지 확인 (안해주면 MetaMask API 찾아보기)
 - OpenSea의 다른 network(Polygon, Kalytn) API 존재하는지 찾아보기
 - 간단한 html 구하기
 - 모두 javascript 기본 문법 알아오기
@@ -31,6 +29,7 @@
 - javascript 기능 알아봄(비동기 관련(callback, Promise, async, await))
 
 # 2022-01-31
+- OpenSea에서 MetaMask도 같이 작업해주는지 체크 > 작업 안해줌 (단순히 계정주소를 인자로 받아서 API 작업)
 - 서버랑 클라이언트 node.js로 구현하기 (웹서버를 구동시켜야 MetaMask를 인식해서 계정 접근이 가능)
 
 
